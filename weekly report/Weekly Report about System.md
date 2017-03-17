@@ -26,6 +26,15 @@ browser和下载应用，但是仍需重新议定
 5.更新安装user-guide
 6.bug管理工具调查
 ```
+### 肖络元
+```
+usb支持多分区之VOLD挂载部分修改;
+对于linux启动logo修改,需求分支包括openthos和一铭;
+搭建手册，由于内容中链接都在gitbook中无法支持，需手段整理内容链接:
+http://dev.openthos.org/userguide
+修复一个U盘保存数据的bug;
+为user解决openthos安装教程，包括vmware中运行教程;
+```
 # 2017年03月6日-03月10日
 ## 本周总结
 ### 王建兴
